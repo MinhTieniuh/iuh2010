@@ -1,0 +1,3 @@
+Scrapy
+Pymongo
+mysql-connector-python
